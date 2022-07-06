@@ -1,0 +1,2 @@
+- Reference
+  - [svg-js-bbox-returns-the-same-values-after-scale](https://stackoverflow.com/questions/46550274/svg-js-bbox-returns-the-same-values-after-scale#:~:text=To%20get%20the%20bounding%20box,the%20path%20in%20a%20group.)

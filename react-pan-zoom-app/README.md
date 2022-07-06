@@ -1,0 +1,2 @@
+- https://github.com/timmywil/panzoom
+- https://www.jqueryscript.net/blog/Best-Image-Zoom-jQuery-Plugins.html
